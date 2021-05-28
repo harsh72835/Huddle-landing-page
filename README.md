@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://huddle-landing-page-html-css.herokuapp.com/)
+- Live Site URL: [Click here](https://huddle-landing-page-html-css.herokuapp.com/)
 
 ## My process
 
